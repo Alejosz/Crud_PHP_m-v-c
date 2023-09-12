@@ -1,0 +1,27 @@
+
+body {
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
+        .form-check {
+            margin-bottom: 10px;
+        }
+        .input-group-text {
+            background-color: #e9ecef;
+            color: #333;
+        }
+        .form-control {
+            border-color: #ced4da;
+        }
+        .form-control:focus {
+            border-color: #80bdff;
+            box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25);
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
